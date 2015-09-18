@@ -1,6 +1,6 @@
-# <99 Bottles >
+# 99 Bottles
 
-##### <Takes users trough the 99 bottles of beer sond starting at their input number>, <Sept 18, 2015>
+##### <Takes users trough the 99 bottles of beer song starting at their input number>, <Sept 18, 2015>
 
 #### <Teresa Fletcher>
 
